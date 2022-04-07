@@ -1,0 +1,9 @@
+- hosts:
+  - <%= @resource.group.name.gsub(' ','_') %>
+  remote_user: ansible
+  become: true
+  gather_facts: true
+  tasks:
+    <% @resource.task.task.each_line do |line| %>
+      <%= line %>
+    <% end %>
