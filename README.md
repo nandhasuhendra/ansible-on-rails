@@ -1,24 +1,6 @@
-# README
+# Ansible on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple dashboard for Ansible to easiest an admin to deploying any application using Ansible without using terminal.
+(My final project in college education)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### NOTE: This project will rewritten for a better version when I have free time 😁
